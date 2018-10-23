@@ -1,0 +1,20 @@
+Free Data Portal
+
+This is an application to download GIS data using an interactive map.
+
+
+
+Multiple Implementation based on following technologies:
+
+Vue                   Leaflet/Cesium/Three
+React                 Leaflet/Cesium/Three
+Angular               Leaflet/Cesium/Three
+
+WIP* ..a server will be required.
+
+
+Story:
+
+You seek specific GIS data.
+You register to the app and choose your data using the interactive map.
+You can download multiple items.
